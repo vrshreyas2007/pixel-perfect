@@ -58,7 +58,7 @@ export const Sidebar = () => {
             <GraduationCap className="w-6 h-6 text-accent-foreground" />
           </div>
           <div>
-            <h1 className="text-xl font-bold text-sidebar-foreground">EngiLearn</h1>
+            <h1 className="text-xl font-bold text-sidebar-foreground">TECH READY</h1>
             <p className="text-xs text-sidebar-muted">Learning Platform</p>
           </div>
         </div>
